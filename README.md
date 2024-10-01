@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @svenhopman
-- 👀 I’m interested in blockchain development.
-- 🌱 I’m currently learning solidity and web3.
+- 👀 Lover of Python, and those little scripts that just do one thing really well.
 
 <!---
 svenhopman/svenhopman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
